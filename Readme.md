@@ -1,13 +1,29 @@
-![Header](./github-header-image.png)
+
+ ![header](src=)
+
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/fatima-zahra-zeghli-2b3715216/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=idajikuu&style=flat-square&color=blue" alt=""/>
+    </a><img src="https://komarev.com/ghpvc/?username=idajikuu&style=flat-square&color=blue" alt=""/></div>
+
+
+```python
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Zhenye Na"
+        self.role = "Software Engineer"
+        self.language_spoken = ["zh_CN", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 <div>
-  
+
 ### ⌨️Programming languages : 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -43,3 +59,4 @@
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
   </p>
 </div>
+
